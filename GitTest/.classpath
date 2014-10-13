@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/1.9/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/4.3.1/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/4.3.2/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/4.11/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/20131018/json-20131018.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/logback-classic/0.9.28/logback-classic-0.9.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/logback-core/0.9.28/logback-core-0.9.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marcin/git/zpi_taxi/GitTest/lib/baza.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
