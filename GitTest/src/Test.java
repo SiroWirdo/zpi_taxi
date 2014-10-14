@@ -6,5 +6,6 @@ public class Test {
 		//Ewelina comment jnjnjkn
 		//fee
 		//Ewelina comment vlhbhih
+		//Ewelina comment vlhbhih
 	}
 }
