@@ -9,6 +9,9 @@ public class Test {
 		//Ewelina comment vlhbhih
 		//eoeo
 		//eeeeeeeeroeroer
+<<<<<<< HEAD
 		//ooooooooooooooooo
+=======
+>>>>>>> branch 'master' of https://github.com/SiroWirdo/zpi_taxi.git
 	}
 }
