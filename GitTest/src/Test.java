@@ -7,6 +7,8 @@ public class Test {
 		//fee
 		//Ewelina comment vlhbhih
 		//Ewelina comment vlhbhih
-		//eoeoroeroer
+		//eoeo
+		//eeeeeeeeroeroer
+		//ooooooooooooooooo
 	}
 }
